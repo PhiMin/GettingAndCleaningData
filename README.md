@@ -19,3 +19,5 @@ There is one R script called run_analysis.R that does the following.
 5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
 The final data will be stored in a text file named tidy_data.txt.
+
+Required package: reshape2
